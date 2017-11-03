@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509659642 source:c:\users\user\desktop\algo\hw8\hw8_r\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

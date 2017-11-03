@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1509649989 source:c:\users\user\desktop\ds_hw2\hw8_select\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1509655528 source:c:\users\user\desktop\algo\hw8\hw8_select\main.c
+	<stdio.h>
+	<stdlib.h>
+
